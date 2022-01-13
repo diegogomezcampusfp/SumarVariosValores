@@ -1,4 +1,5 @@
-COPIAMOS EL SIGUIENTE CÓDIGO EN ECLIPSE
+CREAMOS UN PAQUETE EL CUAL SE LLAME paquete1 (puedes usar el paquete que quieras, siempre que cambies el nombre del mismo para que coincida con el tuyo)
+COPIAMOS EL SIGUIENTE CÓDIGO EN NUESTRA CLASE MAIN
 
 package paquete1;
 import java.util.Scanner;
