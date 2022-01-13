@@ -1,0 +1,22 @@
+package paquete1;
+import java.util.Scanner;
+public class ejemploSumaScanner {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+		//Creamos variables de tipo float para poder ingresar decimales, el número de notas lo decidimos nosotros.
+		//Creamos una variable la cual sirva para almacenar la suma (en este caso suma) de tipo float también.
+		float nota1, nota2, nota3, suma;
+		System.out.println("Dame las tres notas");
+		//Utilizamos Scanner por cada nota que queramos ingresar.
+		nota1 = entrada.nextFloat();
+		nota2 = entrada.nextFloat();
+		nota3 = entrada.nextFloat();
+		//Indicamos que la variable suma contiene la suma de las notas.
+		suma = nota1+nota2+nota3;
+		//Con un system out mostramos la variable suma.
+		System.out.println("La nota es: "+suma);
+	}
+	
+	}
