@@ -1,4 +1,5 @@
 CREAMOS UN PAQUETE EL CUAL SE LLAME paquete1 (puedes usar el paquete que quieras, siempre que cambies el nombre del mismo para que coincida con el tuyo)
+CAMBIAMOS TAMBIÉN EL NOMBRE DE NUESTRO CLASS AL QUE QUERAMOS 
 COPIAMOS EL SIGUIENTE CÓDIGO EN NUESTRA CLASE MAIN
 
 package paquete1;
