@@ -1,3 +1,5 @@
+COPIAMOS EL SIGUIENTE CÓDIGO EN ECLIPSE
+
 package paquete1;
 import java.util.Scanner;
 public class ejemploSumaScanner {
